@@ -1,0 +1,8 @@
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\bin\Debug\Lab3_jake_wilkins.exe.config
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\bin\Debug\Lab3_jake_wilkins.exe
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\bin\Debug\Lab3_jake_wilkins.pdb
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\bin\Debug\GDIDrawer.dll
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\bin\Debug\GDIDrawer.xml
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\obj\Debug\Lab3_jake_wilkins.csprojResolveAssemblyReference.cache
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\obj\Debug\Lab3_jake_wilkins.exe
+C:\Users\Rean\Desktop\C# scripts\Lab3_jake_wilkins\Lab3_jake_wilkins\obj\Debug\Lab3_jake_wilkins.pdb
